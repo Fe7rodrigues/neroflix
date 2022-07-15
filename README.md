@@ -1,4 +1,4 @@
-# UI Clone: Netflix 🎬
+# NEROFLIX: Clone da Netflix 🎬
 <p align="center">
 	<img src="https://i.imgur.com/NxZd0C5.png" alt="UI Clone: Netflix" title="UI Clone: Netflix">
 </p>
