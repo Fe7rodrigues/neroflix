@@ -1,38 +1,38 @@
-# NEROFLIX: Clone da Netflix 🎬
+# NEROFLIX: Netflix clone 🎬
 <p align="center">
 	<img src="https://i.imgur.com/NxZd0C5.png" alt="UI Clone: Netflix" title="UI Clone: Netflix">
 </p>
 
-## 📖 Sobre   
-Clone da página inicial da **Netflix** desenvolvido durante o Bootcamp **HTML Web Developer** da **Digital Innovation One**, utilizando HTML semântico, além de flexbox e media queries para um design responsivo.
+## 📖 About  
+**Netflix** homepage clone developed during Bootcamp **HTML Web Developer** da **Digital Innovation One**, using semantic HTML, plus flexbox and media queries for responsive design.
 
 ---
 
-## 🚀 Tecnologias e ferramentas utilizadas
+## 🚀 Technologies and tools used
 - **HTML5**
 - **CSS3**
-- **jQuery** (https://github.com/Fe7rodrigues/neroflix))
+- **jQuery** 
 
 ---
 
-## 🖥️ Demonstração
+## 🖥️ Demonstration
 ![home](https://user-images.githubusercontent.com/98523060/179227459-60c8d222-93f6-45e7-883d-ce5476f9a70f.png)
 
-Você pode acessar o projeto clicando [aqui](https://github.com/Fe7rodrigues/neroflix).
+You can access the project by clicking [here](https://fe7rodrigues.github.io/neroflix/).
 
 
 ---
 
-## 🔧 Como executar o projeto
+## 🔧 How to run the project
 
 ```bash
-# Clone o repositório
+# clone the repository
 git clone https://github.com/Fe7rodrigues/neroflix
-# Entre no diretório
+# enter the directory
 cd neroflix
 ```
-Depois disso, utilize uma ferramenta como o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para criar um servidor local e executar o projeto.
+After that, use a tool like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to create a local server and run the project.
 
 ---
 
-**Desenvolvido por [Fernando Rodrigues](https://github.com/Fe7rodrigues).**
+**Developed by [Fernando Rodrigues](https://github.com/Fe7rodrigues).**
